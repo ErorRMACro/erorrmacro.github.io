@@ -1,0 +1,124 @@
+body {
+    margin: 0px 0px 0px 0px;
+}
+main {
+    background-color: #fff4f1;
+}
+
+.article_start {
+    font: italic 28px Verdana;
+    text-align: center;
+    background-color: #ff4040;
+    color: #f5f5f5;
+    border: 4px solid #808080;
+    width: 300px;
+    padding: 15px;
+    margin: 0px 0px 0px 15px;
+    
+}
+
+.img_toyota {
+    position: absolute;
+    left: 600px;
+
+    border: 2px solid grey;
+}
+
+#article_p {
+    padding: 15px;
+}
+
+.article_toyota {
+    font: 16px/24px Arial;
+    /*background-color:#c0d6e4;*/
+    /*border: 4px solid #000000;*/
+    width: 500px;
+    margin: 0px 0px 0px 0px;
+    
+}
+
+.sport_cars {
+    font: italic 24px Verdana;
+    text-align: center;
+    background-color: #ff4040;
+    border: 4px solid #808080;
+    color: #f5f5f5;
+    width: 300px;
+    padding: 15px;
+    margin: 0px 0px 10px 15px;
+}
+
+.supra {
+    font: 16px/24px Arial;
+    
+    
+    width: 500px;
+    padding: 10px 10px 60px 10px;
+    margin-bottom: 80px;
+
+}
+
+.video {
+margin-left: 5px;
+position: absolute;
+width: 500px;
+}
+
+.img {
+ position: absolute;
+ left: 600px;
+ border: 2px solid grey;
+}
+
+.characteristics {
+    
+    width: 500px;
+    margin-left: 590px;
+    font: 16px/24px Arial;
+    
+}
+
+.table {
+    font: 16px/24px Arial;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    background-color: #e5af9e;
+}
+
+.table_t {
+    border: 3px solid #a3573a;
+}
+ .head1 {
+     background-color: #e5af9e;
+     padding: 25px 0px 25px 0px;
+ }
+
+ .block_2 {
+    background-color: #eaa198;
+    padding: 25px 0px 15px 0px;
+ }
+
+ header {
+    background-color: #df9152;
+    padding: 25px;
+ }
+
+footer {
+    background-color: #df9152;
+    padding: 25px;
+    font: 14px Arial;
+    text-align: right;
+}
+
+.comm{
+    background-color: #e5af9e;
+    padding: 15px;
+}
+
+.forms {
+    background-color: #eaa198;
+    padding: 25px;
+    font: 16px/24px Arial;
+}
+
